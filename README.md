@@ -9,14 +9,14 @@
 - 页面间的逻辑关系
   ![avatar](/description/页面间逻辑关系.png)
 ### 实现功能
-```
-npm run build
-```
-
+- 权限管理
+> 注册、登录、路由导航守卫管理页面权限
+- 创建文章
+- 展示用户、用户的文章列表、文章详情
+- 编辑文章
+- vuex全局状态管理
+- loading显示
+- 全局正确、错误信息提示
+- 确认组件，对危险操作（如删除）进行进一步确认
 ### 待优化
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
