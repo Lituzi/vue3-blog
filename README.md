@@ -1,21 +1,19 @@
 # vue3-zhuanlan
 
-## Project setup
-```
-npm install
-```
+## 技术栈
+- vue3.0 typescript vuex vue-router axios
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### 整体页面设计
+- 页面包括
+> 入口页面、登录页、注册页、用户博客页、文章展示页、创建文章页面
+- 跳转设计
 
-### Compiles and minifies for production
+### 实现功能
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### 待优化
 ```
 npm run lint
 ```
