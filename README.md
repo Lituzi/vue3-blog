@@ -27,5 +27,18 @@
 - 页面权限管理逻辑
 
 ![avatar](/description/路由导航守卫逻辑.png) 
+
+- 创建文章
+
+![avatar](/description/创建文章.png) 
+
+- 编辑文章
+
+![avatar](/description/编辑文章.png) 
+
+- 上传header单张图片
+
+![avatar](/description/上传单张图片功能.png ) 
+
 ### 待优化
 
